@@ -4,8 +4,6 @@ I'm trying to learn programming! I hope my repository will help you!
 
 ## Array
 
----
-
 <table>
   <tr>
     <td valign="middle"><img src="https://github.com/t-chakir/chakir/blob/main/img/cpp.png?raw=true" width="50" height="50"></td>
