@@ -43,8 +43,4 @@ int main(){
     int result = sol.maxArea(array);
 
     cout << result << endl;
-
-    // for(int i = 0; i < result; i++){
-
-    // }
 }
