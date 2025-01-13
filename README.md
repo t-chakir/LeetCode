@@ -2,8 +2,6 @@
 
 I'm trying to learn programming! I hope my repository will help you!
 
----
-
 ## Array
 
 <table>
