@@ -10,7 +10,7 @@ I'm trying to learn programming! I hope my repository will help you!
     <td valign="middle"><a href="https://github.com/t-chakir/LeetCode/blob/main/Array/1-Two-Sum.cpp">1. Two Sum</a></td>
   </tr>
     <tr>
-    <td valign="middle"><img src="https://github.com/t-chakir/chakir/blob/main/img/go.png?raw=true" width="65" height="55"></td>
+    <td valign="middle"><img src="https://github.com/t-chakir/chakir/blob/main/img/go.png?raw=true" width="65" height="60"></td>
     <td valign="middle"><a href="https://github.com/t-chakir/LeetCode/blob/main/Array/1_Two-Sum.go">1. Two Sum</a></td>
   </tr>
   <tr>
