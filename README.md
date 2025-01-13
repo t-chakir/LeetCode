@@ -1,6 +1,6 @@
 # LeetCode
 
-##Array
+## Array
 
 ---
 
